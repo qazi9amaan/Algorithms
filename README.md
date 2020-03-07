@@ -1,2 +1,2 @@
 # Algorithms
-Divide And Conquer Algorithms  C-Language Implementation
+Algorithms with  C-Language Implementation
