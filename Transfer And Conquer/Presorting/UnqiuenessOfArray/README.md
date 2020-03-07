@@ -14,7 +14,7 @@ ALGORITHM : UNIQUENESS OF AN ARRAY
 		return true;
 	}
 
-Complexity :[Big-theta](sorting) +[Big-theta](Uniqueness)
+Complexity :Big-theta (sorting) +Big-theta(Uniqueness)
 
 	   : [Big-theta](nlogn)
 	
